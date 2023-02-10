@@ -13,7 +13,7 @@ namespace NLayer.Core
         public int Weight { get; set; }
         public int Width { get; set; }
 
-        public int ProductId { get; set; }
+        public int ProductId { get; set; } //foreign key
         public Product Product { get; set; }
     }
 }
