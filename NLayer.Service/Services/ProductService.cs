@@ -1,4 +1,5 @@
-﻿using NLayer.Core.DTOs;
+﻿using AutoMapper;
+using NLayer.Core.DTOs;
 using NLayer.Core.Models;
 using NLayer.Core.Repositories;
 using NLayer.Core.Service;
@@ -13,13 +14,20 @@ namespace NLayer.Service.Services
 {
     public class ProductService : Service<Product>, IProductService
     {
-        public ProductService(IGenericRepository<Product> repository, IUnitOfWork unitOfWork) : base(repository, unitOfWork)
+        private readonly IProductRepository _productRepository;
+        private readonly IMapper _mapper;
+
+        public ProductService(IGenericRepository<Product> repository, IUnitOfWork unitOfWork, IProductRepository productRepository, IMapper mapper) : base(repository, unitOfWork)
         {
+            _productRepository = productRepository;
+            _mapper = mapper;
         }
 
-        public Task<List<ProductWithCategoryDto>> GetProductsWithCategory()
+        public async Task<CustomResponseDto<List<ProductWithCategoryDto>>> GetProductsWithCategory()
         {
-            throw new NotImplementedException();
+            var products = await _productRepository.GetProductsWithCategory();
+            var productsDto = _mapper.Map<List<ProductWithCategoryDto>>(products);
+            return CustomResponseDto<List<ProductWithCategoryDto>>.Success(200, productsDto);
         }
     }
 }
