@@ -140,3 +140,7 @@ C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\obj\Debug\net6.0\
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs

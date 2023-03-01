@@ -144,3 +144,6 @@ C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\obj\Debug\net6.0\
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
