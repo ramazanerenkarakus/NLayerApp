@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vxdxZfeLtP1yM0gTqEeKLHfeYEYCDpMP+fhUtWELGX6dVR5BvNI+Xbv/aajSK4TrkAbGq02D6HgkG03UxRZSpw==",
+  "dgSpecHash": "O6UkPLLwjF6g8X9U6Wy6blRo/8pJ7xhrn5gtX1mKedXeiqBMp6XK34byuDbihKn2aqwVFvnKoJsuF9r8gv4BnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ErenKarakus\\Desktop\\CodeRepos\\NLayerUdemyApp\\NLayer.Service\\NLayer.Service.csproj",
+  "projectFilePath": "C:\\Users\\ErenKarakus\\Desktop\\nlayerdeneme\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ErenKarakus\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\ErenKarakus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
