@@ -147,3 +147,5 @@ C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\obj\Debug\net6.0\
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\ErenKarakus\Desktop\nlayerdeneme\NLayerApp\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
