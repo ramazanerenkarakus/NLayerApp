@@ -1,10 +1,10 @@
-using Autofac.Extensions.DependencyInjection;
 using Autofac;
-using NLayer.Web.Modules;
+using Autofac.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using NLayer.Repository;
-using System.Reflection;
 using NLayer.Service.Mapping;
+using NLayer.Web.Modules;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +22,7 @@ builder.Services.AddDbContext<AppDbContext>(x =>
 });
 
 builder.Host.UseServiceProviderFactory
-    (new AutofacServiceProviderFactory()); 
+    (new AutofacServiceProviderFactory());
 builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => containerBuilder.RegisterModule(new RepoServiceModule()));
 
 var app = builder.Build();
