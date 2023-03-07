@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YlY+E1bJqQv+G8EAegqNWro/gq5IsZ7yOu24XXHnM1fkGOtDaoDZPSW0x3wBijLrNyoGKtV12ouXuuECXb3F5A==",
+  "dgSpecHash": "raCazfqfDizablmXvl4nvnsP4Bef0DA4umdDn6u9Q4E44OQOaqXTcmYi28TliWbiCS5ojpBdpSA/xrkjnKJezA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ErenKarakus\\Desktop\\nlayerdeneme\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+  "projectFilePath": "C:\\Users\\ErenKarakus\\Desktop\\NLayerApplication\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
